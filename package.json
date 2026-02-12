@@ -1,0 +1,16 @@
+{
+  "name": "vitepress",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "serve": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "deploy": "bash deploy.sh"
+  },
+  "dependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.27"
+  }
+
+}
