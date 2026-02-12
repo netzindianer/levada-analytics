@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as n,ae as e}from"./chunks/framework.yssW3Rs2.js";const g=JSON.parse('{"title":"Levada Analytics","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),t={name:"index.md"};function l(h,s,p,k,E,d){return a(),n("div",null,[...s[0]||(s[0]=[e("",51)])])}const c=i(t,[["render",l]]);export{g as __pageData,c as default};
