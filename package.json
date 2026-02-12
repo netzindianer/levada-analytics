@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "type": "commonjs",
   "scripts": {
-    "serve": "vitepress dev docs",
-    "build": "vitepress build docs",
-    "preview": "vitepress preview docs",
-    "deploy": "bash deploy.sh"
+    "serve": "vitepress dev src",
+    "build": "vitepress build src",
+    "preview": "vitepress preview src"
   },
   "dependencies": {
     "vitepress": "^1.6.4",

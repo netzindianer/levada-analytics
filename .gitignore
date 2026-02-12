@@ -2,10 +2,7 @@
 node_modules/
 
 # VitePress
-.vitepress/cache/
-.vitepress/dist/
-docs/.vitepress/cache/
-docs/.vitepress/dist/
+src/.vitepress/cache/
 
 # Logs
 *.log
